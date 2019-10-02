@@ -89,6 +89,7 @@ namespace ICT3101_Calculator
         }
         public double areaOfTriangle(double b,double h)
         {
+            //HEHE
             return (h * b) / 2;
         }
         public double AOC(double r)
